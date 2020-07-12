@@ -1,0 +1,159 @@
+
+body{
+    margin-bottom: 0;
+    margin: 0;
+
+}
+
+p{
+    font-family: 'Saira Condensed', sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.hl{
+    font-family: 'Amatic SC', cursive;
+    
+}
+h1{
+    color: orange ;
+    font-size: 70px;
+}
+h2{
+    color: rgba(104, 72, 12, 0.911);
+    font-size: 50px;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 4%;
+}
+.half-width img{
+    width: 100%;
+}
+#bg{
+
+ background-image: url(https://scontent.fdac47-1.fna.fbcdn.net/v/t1.15752-9/87044822_602905037219469_2217029265990352896_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_eui2=AeGUlAAQudlmSSmS8dBjR9iGcr6rhrv6ufNyvquGu_q581KXuvst-wRol4L54x9brWfgeWpkrz1s4YJEKe3-TOpK&_nc_oc=AQlZ7rb1pcUIkKvz__mhqqntghMghZhLUfi_hwAofU2A6o9AglFyLbs2gYT6tb-0YHw&_nc_ht=scontent.fdac47-1.fna&oh=63cb5972bf19f00cf19a9728b925a2cb&oe=5F222AE8);
+ background-repeat: no-repeat;
+}
+section{
+
+    height: 500px;
+    padding-bottom: 200px;
+}  
+.link-button{
+    text-decoration: none;
+     background-color: tomato;
+    padding:10px 20px ;
+    border-radius: 5px;
+    color:rgb(19, 18, 18);
+    font-weight: 700;
+    font-family: cursive;
+}
+#bio{
+    background-image: url(https://scontent.fdac47-1.fna.fbcdn.net/v/t1.15752-9/87054666_213364856512605_6011784273898504192_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_eui2=AeE1yXMCv978vRVBNyeM5VlMN_jA4oWA8WE3-MDihYDxYcWTp3c5J3MlDnrJNOBsOWBZ08sWR_UAZcNQ2FsroKIH&_nc_oc=AQlU12M9B84TnovCp5xAJJyNWX9b0iR8c5-oAA7aJhOnUObvgDGET1ME3BqLfTso4FU&_nc_ht=scontent.fdac47-1.fna&oh=a7dd1dee1708bf164d253d30c6ca4eff&oe=5F1F82A2);
+    background-repeat: no-repeat;
+}
+.new-font{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+}
+ul{
+    font-family: 'Saira Condensed', sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 10% 3%;
+    
+
+}
+#latest{
+    background-image: url(https://scontent.fdac47-1.fna.fbcdn.net/v/t1.15752-9/87046721_2539204789686884_8584908247608066048_n.png?_nc_cat=100&_nc_sid=b96e70&_nc_eui2=AeGuBEY0lAapWXFirp2Bj9L-QNhmWznZJ5BA2GZbOdknkP7UUVVORN8r2JIxNE7KC-S1HOfg2B1deS4P81iT0jwu&_nc_oc=AQlmEIV39xypK3XyS7_ZCtNvfAornFg89Dg3_Vq-HuND449jYwjkHm-dLhMMQ63cd6w&_nc_ht=scontent.fdac47-1.fna&oh=41e7c4ac8ddc6d4fd2f44d7eb017783a&oe=5F2249B2);
+    background-repeat: no-repeat;
+}
+#letest-heading{
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    
+}
+*{
+    box-sizing: border-box;
+
+}
+.colum{
+    float: left;
+    width: 33.33%;
+    padding: 2%;
+
+}
+.colum img{
+    width: 90%;
+    padding: 1%;
+    
+}
+.before-footer{
+    background-image: url(https://scontent.fdac47-1.fna.fbcdn.net/v/t1.15752-9/87054666_213364856512605_6011784273898504192_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_eui2=AeE1yXMCv978vRVBNyeM5VlMN_jA4oWA8WE3-MDihYDxYcWTp3c5J3MlDnrJNOBsOWBZ08sWR_UAZcNQ2FsroKIH&_nc_oc=AQlU12M9B84TnovCp5xAJJyNWX9b0iR8c5-oAA7aJhOnUObvgDGET1ME3BqLfTso4FU&_nc_ht=scontent.fdac47-1.fna&oh=a7dd1dee1708bf164d253d30c6ca4eff&oe=5F1F82A2);
+    background-repeat: no-repeat;
+}
+#list-skill{
+    font-family: 'Saira Condensed', sans-serif;
+    margin: 0%;
+    padding-top: 0%;
+}
+.single-ex{
+    box-shadow: 10px 10px 40px rgb(32, 129, 129);
+    border-radius: 7px;
+    height: 150%;
+    padding: 20px;
+    background-color:white;
+}
+
+#skill{
+    border-left: 7px solid;
+    border-image: linear-gradient( 180deg, lightSalmon, rgb(31, 12, 9));
+    border-image-slice: 1;
+}
+
+#education{
+    border-left: 7px solid;
+    border-image: linear-gradient( 180deg, blue, rgb(136, 35, 17));
+    border-image-slice: 1;
+}
+.ffooter{
+    background-image: url(https://scontent.fdac47-1.fna.fbcdn.net/v/t1.15752-9/87002128_222799455425725_2154393064968290304_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_eui2=AeHZANXl9BFy9ZgxPDgI0X407GNIlf39lEPsY0iV_f2UQyA88H84eqKmuptBVBSEHTe0E1rjaQRCoAL3RejkNsHc&_nc_oc=AQnrePT7kmFYR2fa38tyVqA0PFsz_jP-jNjvO25YnPiRb79Nj0CNRdEhjJ02uMpPQog&_nc_ht=scontent.fdac47-1.fna&oh=5cb6749026d8bb4618ae99cef1914d91&oe=5F2000CC);
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+.center{
+    text-align: center;
+    color: orangered;
+}
+.center-ec{
+    text-align: center;
+    font-family:  'Oswald', sans-serif;;
+}
+.border{
+    border: 0px solid ;
+    background-color: rgb(22, 13, 97);
+    padding:10px 20px;
+    border-radius: 5px;
+    margin: 5% 25%;
+    display: block;
+    
+
+
+}
+.border h4{
+    font-size: 15px;
+    text-align: center;
+    color: honeydew;
+
+}
+footer{
+    background-color: grey;
+    text-align: center;
+    font-family: cursive;
+    color:white;
+    padding: 10px;
+}
